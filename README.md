@@ -9,6 +9,7 @@ Welcome to my GitHub! I’m a **Full-Stack Web Developer** passionate about buil
 - 💡 I specialize in both frontend and backend web development, with a strong focus on seamless user experience and thoughtful component design.
 - 🛠️ I thrive on bridging logic and creativity — whether architecting RESTful APIs or crafting beautiful, intuitive interfaces.
 - ☕ Coding fuel of choice: a good iced matcha!
+- 🌿 Nature is my reset button — I treat it like meditation. (Also, green is my favorite color — no surprise there!)
 
 ---
 
